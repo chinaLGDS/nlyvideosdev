@@ -1,381 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13d0c481-6e11-42e7-98ad-8f0f05d1a9de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FFMpegTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FetchVideoCover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/HttpClientUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/JSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MD5Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MergeVideoMp3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/PagedResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/RedisOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/TimeAgoUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/ZookeeperConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/enums/ViddeoStatusEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/DayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/InvalidSystemClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/RandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/Sid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/WorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/strategy/FileLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/utils/HttpReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/utils/IPv4Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/utils/Ip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/utils/Props.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/utils/Serializes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/org/n3r/idworker/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/FFMpegTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/FetchVideoCover.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/HttpClientUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/JSONResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/JsonUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/MD5Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/MergeVideoMp3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/MyMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/PagedResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/RedisOperator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/TimeAgoUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/ZookeeperConfig$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/ZookeeperConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/enums/ViddeoStatusEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/Code.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/DayCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/Id.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/IdWorker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/InvalidSystemClock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/RandomCodeStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/Sid$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/Sid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/WorkerIdStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/strategy/DefaultRandomCodeStrategy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/strategy/DefaultWorkerIdStrategy$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/strategy/DefaultWorkerIdStrategy$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/strategy/FileLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/utils/HttpReq.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/utils/IPv4Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/utils/Ip.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/utils/Props$Silent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/utils/Props.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/utils/Serializes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/org/n3r/idworker/utils/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/imooc-videos-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/BgmMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/CommentsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/CommentsMapperCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/SearchRecordsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/UsersFansMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/UsersLikeVideosMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/UsersMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/UsersReportMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/VideosMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/VideosMapperCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/BgmMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/CommentsMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/CommentsMapperCustom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/SearchRecordsMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/UsersFansMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/UsersLikeVideosMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/UsersMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/UsersReportMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/VideosMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/classes/com/nly/mapper/VideosMapperCustom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/imooc-videos-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BgmController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/RegisterLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/VideoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/interceptor/MiniInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Swagger2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/WatcherApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/ZKApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/dto/LoginDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/model/WXSessionModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/BgmMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/CommentsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/CommentsMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/SearchRecordsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/UsersFansMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/UsersLikeVideosMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/UsersReportMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/VideosMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/VideosMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/BasicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/BgmController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/RegisterLoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/VideoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/interceptor/MiniInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Swagger2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/WebMvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/cofig/WatcherApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/cofig/ZKApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/dto/LoginDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/model/WXSessionModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/BgmMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/CommentsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/CommentsMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/SearchRecordsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/UsersFansMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/UsersLikeVideosMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/UsersReportMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/VideosMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/mapper/VideosMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/Controller/BasicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/Controller/BgmController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/Controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/Controller/RegisterLoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/Controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/Controller/VideoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/Swagger2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/WebMvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/dto/LoginDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/com/nly/model/WXSessionModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/BgmMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/CommentsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/SearchRecordsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/UsersFansMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/UsersLikeVideosMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/UsersMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/UsersReportMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/VideosMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/classes/mapper/VideosMapperCustom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/HikariCP-3.4.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.9.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/audience-annotations-0.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/curator-client-4.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/curator-framework-4.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/curator-recipes-4.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/druid-spring-boot-starter-1.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/guava-18.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/httpclient-4.5.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/httpcore-4.4.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/imooc-videos-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/imooc-videos-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/imooc-videos-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/imooc-videos-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jackson-datatype-jdk8-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jackson-datatype-jsr310-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-parameter-names-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jakarta.el-3.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jline-0.9.94.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/junit-4.13.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/lettuce-core-6.0.3.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.13.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.13.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/mapper-3.5.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/mapper-spring-boot-autoconfigure-1.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/mapper-spring-boot-starter-1.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-boot-autoconfigure-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-boot-starter-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/netty-3.10.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/netty-buffer-4.1.60.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/netty-codec-4.1.60.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/netty-common-4.1.60.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/netty-handler-4.1.60.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/netty-resolver-4.1.60.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/netty-transport-4.1.60.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-5.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-spring-boot-autoconfigure-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-spring-boot-starter-1.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/persistence-api-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/reactive-streams-1.0.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/reactor-core-3.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/snakeyaml-1.27.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-aop-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-data-redis-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-jdbc-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-json-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-thymeleaf-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-tomcat-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-2.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-data-keyvalue-2.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-data-redis-2.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/springfox-core-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/springfox-schema-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/springfox-spi-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/springfox-spring-web-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/springfox-swagger-common-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/springfox-swagger-ui-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/springfox-swagger2-2.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/swagger-annotations-1.5.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/swagger-models-1.5.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/thymeleaf-3.0.12.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/thymeleaf-extras-java8time-3.0.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/thymeleaf-spring5-3.0.12.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-core-9.0.44.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-websocket-9.0.44.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/imooc-videos-dev-mini-api-1.0-SNAPSHOT/WEB-INF/lib/zookeeper-3.4.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/Bgm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/SearchRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/UsersFans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/UsersLikeVideos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/UsersReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/Videos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/CommentsVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/PublisherVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/UsersVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/VideosVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/Bgm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/Comments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/SearchRecords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/Users.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/UsersFans.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/UsersLikeVideos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/UsersReport.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/Videos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/vo/CommentsVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/vo/PublisherVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/vo/UsersVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/classes/com/nly/pojo/vo/VideosVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/imooc-videos-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/BgmService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/CommentsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/SearchRecordsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersFansService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersLikeVideosService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersReportService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/VideosService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/BgmServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/CommentsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/SearchRecordsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersFansServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersLikeVideosServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersReportServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/VideosServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/BgmService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/CommentsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/SearchRecordsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/UsersFansService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/UsersLikeVideosService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/UsersReportService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/UsersService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/VideosService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/impl/BgmServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/impl/CommentsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/impl/SearchRecordsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/impl/UsersFansServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/impl/UsersLikeVideosServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/impl/UsersReportServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/impl/UsersServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/classes/com/nly/service/impl/VideosServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/imooc-videos-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imooc-videos-dev-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="13d0c481-6e11-42e7-98ad-8f0f05d1a9de" name="Default Changelist" comment="" />
+    <list id="86528b99-6477-4e15-82e1-0031486ddb47" name="video-dev测试提交" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/imooc-videos-dev-common/target/" />
@@ -486,8 +113,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BgmController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="127">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -664,8 +291,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -810,6 +437,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="13d0c481-6e11-42e7-98ad-8f0f05d1a9de" name="Default Changelist" comment="" />
+      <changelist id="86528b99-6477-4e15-82e1-0031486ddb47" name="video-dev测试提交" comment="" />
       <created>1620677906046</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -925,12 +553,27 @@
       <workItem from="1646442574558" duration="14000" />
       <workItem from="1648620007024" duration="1879000" />
       <workItem from="1650721813286" duration="781000" />
-      <workItem from="1653106156292" duration="1887000" />
+      <workItem from="1653106156292" duration="4754000" />
     </task>
+    <task id="LOCAL-00001" summary="video-dev测试提交">
+      <created>1653123726681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653123726681</updated>
+    </task>
+    <task id="LOCAL-00002" summary="video-dev测试提交">
+      <created>1653124567328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653124567328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="321965000" />
+    <option name="totallyTimeSpent" value="324832000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -943,7 +586,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.8494318" side_tool="true" weight="0.27449664" />
       <window_info id="Designer" order="1" />
@@ -952,7 +594,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.8374291" side_tool="true" weight="0.22684564" />
       <window_info id="Web" order="6" sideWeight="0.7698864" side_tool="true" weight="0.28993288" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.23011364" visible="true" weight="0.31233245" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.23011364" visible="true" weight="0.31233245" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731544" weight="0.5487977" />
@@ -966,7 +608,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.111409396" side_tool="true" weight="0.50852275" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.7223796" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4852349" weight="0.2970297" />
       <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32954547" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32954547" />
@@ -987,8 +629,35 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="video-dev测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="video-dev测试提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1382,8 +1051,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BgmController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="127">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
