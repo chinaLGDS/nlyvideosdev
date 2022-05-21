@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="imooc-videos-dev-pojo" />
+        <module name="imooc-videos-dev-service" />
+        <module name="imooc-videos-dev-common" />
+        <module name="imooc-videos-dev-mini-api" />
+        <module name="imooc-videos-dev-mapper" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="imooc-videos-dev-common" options="-parameters" />
+      <module name="imooc-videos-dev-mapper" options="-parameters" />
+      <module name="imooc-videos-dev-mini-api" options="-parameters" />
+      <module name="imooc-videos-dev-pojo" options="-parameters" />
+      <module name="imooc-videos-dev-service" options="-parameters" />
+    </option>
+  </component>
+</project>
