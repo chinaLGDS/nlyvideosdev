@@ -16,9 +16,11 @@ public class WebMvcConfig extends WebMvcConfigurerAdapter {
     //实现资源关联
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
+        //映射classpath，以及本地路径
         registry.addResourceHandler("/**")
                 .addResourceLocations("classpath:/META-INF/resources/")
                 .addResourceLocations("file:C:/G/Nly-videos-dev/");
+
     }
 
     //实现对拦截器进行注册

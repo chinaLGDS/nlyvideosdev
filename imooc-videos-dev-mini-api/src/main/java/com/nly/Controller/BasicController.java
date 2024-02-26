@@ -15,7 +15,8 @@ public class BasicController {
     //文件命名空间
     public static final String FILE_SPACE ="C:/G/Nly-videos-dev";
     //ffmpeg所在的目录
-    public static final String FFMPEG_EXE = "F:\\ffmpeg\\bin\\ffmpeg.exe";
+    public static final String FFMPEG_EXE = "C:\\D\\ffmpeg\\bin\\ffmpeg.exe";
+
 
     //每页的记录数
     public static final Integer PAGE_SIZE = 5 ;

@@ -5,7 +5,7 @@ import com.nly.pojo.Users;
 
 
 /**
- * login返回值得数据类型
+ * login返回值的数据类型
  * @author nly
  */
 

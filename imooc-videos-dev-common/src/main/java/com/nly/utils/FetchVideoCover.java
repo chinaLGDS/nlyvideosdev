@@ -83,9 +83,10 @@ public class FetchVideoCover {
 
     public static void main(String[] args) throws IOException {
 
-        FetchVideoCover ffMpegTest = new FetchVideoCover("F:\\ffmpeg\\bin\\ffmpeg.exe");
+        FetchVideoCover ffMpegTest = new FetchVideoCover("C:\\D\\ffmpeg\\bin\\ffmpeg.exe");
+
         try {
-            ffMpegTest.getCover("F:\\ffmpeg\\bin\\exercise.mp4","F:\\ffmpeg\\bin\\exe.jpg");
+            ffMpegTest.getCover("C:\\D\\ffmpeg\\bin\\exercise.mp4","C:\\D\\ffmpeg\\bin\\exe.jpg");
         } catch (IOException e) {
             e.printStackTrace();
         }

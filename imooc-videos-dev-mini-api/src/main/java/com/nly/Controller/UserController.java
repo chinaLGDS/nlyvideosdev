@@ -40,7 +40,7 @@ public class UserController {
             return JSONResult.errorMsg("用户id不能为空...");
         }
         //文件保存的命名空间
-        String fileSpace ="G:/Nly-videos-dev";
+        String fileSpace ="C:/G/Nly-videos-dev";
         //保存到数据库中的相对路径
         String uploadPathDB ="/"+userId+"/face";
 
@@ -92,7 +92,6 @@ public class UserController {
 
     @ApiOperation(value = "查询用户信息",notes = "查询用户信息的接口")
     @ApiImplicitParam(name = "userId",value = "用户id",required = true,dataType = "String",paramType = "query")
-
     @PostMapping("/query")
     public JSONResult query(String userId,String fanId) throws Exception {
 
@@ -119,6 +118,7 @@ public class UserController {
      * @return
      * @throws Exception
      */
+    @ApiOperation(value = "查询视频发布者信息",notes = "查询视频发布者信息的接口")
     @PostMapping("/queryPublisher")
     public JSONResult queryPublisher(String loginUserId,String videoId,
                                      String publisherUserId) throws Exception {
@@ -152,6 +152,7 @@ public class UserController {
      * @return
      * @throws Exception
      */
+    @ApiOperation(value = "添加关注",notes = "添加关注接口")
     @PostMapping("/beyourfans")
     public JSONResult beyourfans(String userId,String fanId) throws Exception {
 
@@ -171,6 +172,7 @@ public class UserController {
      * @return
      * @throws Exception
      */
+    @ApiOperation(value = "取消关注",notes = "取消关注的接口")
     @PostMapping("/dontbeyourfans")
     public JSONResult dontbeyourfans(String userId,String fanId) throws Exception {
 
@@ -189,6 +191,7 @@ public class UserController {
      * @return
      * @throws Exception
      */
+    @ApiOperation(value = "举报信息",notes = "举报信息的接口")
     @PostMapping("/reportUser")
     public JSONResult reportUser(@RequestBody UsersReport usersReport) throws Exception {
 

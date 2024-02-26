@@ -8,8 +8,7 @@ package com.nly.service;
  * 用户粉丝关联关系表 服务类
  * </p>
  *
- * @author nly
- * @since 2021-05-15
+ * @author nlyF
  */
 public interface UsersFansService  {
 

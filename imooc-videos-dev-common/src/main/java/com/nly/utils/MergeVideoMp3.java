@@ -75,11 +75,13 @@ public class MergeVideoMp3 {
 
     public static void main(String[] args) throws IOException {
 
-        MergeVideoMp3 ffMpegTest = new MergeVideoMp3("F:\\ffmpeg\\bin\\ffmpeg.exe");
+
+
+        MergeVideoMp3 ffMpegTest = new MergeVideoMp3("C:\\D\\ffmpeg\\bin\\ffmpeg.exe");
         try {
-            ffMpegTest.convertor("F:\\ffmpeg\\bin\\newone.mp4",
-                    "F:\\ffmpeg\\bin\\two.mp3",
-                    29.0,"F:\\ffmpeg\\bin\\tesone.mp4");
+            ffMpegTest.convertor("C:\\D\\ffmpeg\\bin\\ffmpeg.exe",
+                    "C:\\D\\ffmpeg\\bin\\two.mp3",
+                    29.0,"C:\\D\\ffmpeg\\bin\\tesone.mp4");
         } catch (IOException e) {
             e.printStackTrace();
         }

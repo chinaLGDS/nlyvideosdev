@@ -137,7 +137,7 @@ public class ZKApi {
      */
     @PostConstruct
     public  void init(){
-        String path="/zk-watcher-3";
+        String path="/zk-watcher-2";
         logger.info("【执行初始化测试方法。。。。。。。。。。。。】");
         logger.info(logger.getName());
         createNode(path,"测试");

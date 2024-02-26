@@ -19,13 +19,6 @@ public class Application {
 
     public static void main(String[] args) {
 
-       /*
-       //遍历启动时候加载的类
-       ApplicationContext applicationContext = SpringApplication.run(Application.class, args);
-        for (String name : applicationContext.getBeanDefinitionNames()) {
-            System.out.println(name);
-        }*/
-
        SpringApplication.run(Application.class,args);
 
     }

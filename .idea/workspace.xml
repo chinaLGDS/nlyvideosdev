@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13d0c481-6e11-42e7-98ad-8f0f05d1a9de" name="Default Changelist" comment="" />
+    <list default="true" id="13d0c481-6e11-42e7-98ad-8f0f05d1a9de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FFMpegTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FFMpegTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FetchVideoCover.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FetchVideoCover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MergeVideoMp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MergeVideoMp3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/FFMpegTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/FFMpegTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/FetchVideoCover.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/FetchVideoCover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/MergeVideoMp3.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-common/target/classes/com/nly/utils/MergeVideoMp3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BasicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BasicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/VideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/VideoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/ZKApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/ZKApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/dto/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/dto/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/BasicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/BasicController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/VideoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/Controller/VideoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/WebMvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/cofig/ZKApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-mini-api/target/classes/com/nly/cofig/ZKApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/BgmService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/BgmService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/CommentsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/CommentsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/SearchRecordsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/SearchRecordsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersFansService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersFansService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersLikeVideosService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersLikeVideosService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersReportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersReportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/VideosService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/VideosService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/BgmServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/BgmServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/CommentsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/CommentsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/SearchRecordsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/SearchRecordsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersFansServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersFansServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersLikeVideosServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersLikeVideosServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersReportServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersReportServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/VideosServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/VideosServiceImpl.java" afterDir="false" />
+    </list>
     <list id="86528b99-6477-4e15-82e1-0031486ddb47" name="video-dev测试提交" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,62 +76,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/RegisterLoginController.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/BgmService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1691">
-              <caret line="106" column="60" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="60" />
+            <state relative-caret-position="361">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/dto/LoginDto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/model/WXSessionModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3135">
-              <caret line="180" column="41" selection-start-line="180" selection-start-column="41" selection-end-line="180" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/WatcherApi.java">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/RedisOperator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/ZKApi.java">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/ZookeeperConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2489">
-              <caret line="139" column="34" selection-start-line="139" selection-start-column="34" selection-end-line="139" selection-end-column="34" />
+            <state relative-caret-position="344">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,37 +107,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BasicController.java">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/VideosService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersFansService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/SearchRecordsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/CommentsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersLikeVideosService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="15" column="59" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BgmController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/HelloController.java">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersReportService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="228">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Swagger2.java">
+        <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <state relative-caret-position="634">
+              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -150,26 +182,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sid</find>
-      <find>Jedis</find>
-      <find>files</find>
-      <find>version</find>
-      <find>fileSpace</find>
-      <find>uploadPathDB</find>
-      <find>success</find>
-      <find>videopath</find>
-      <find>coverPathDB</find>
-      <find>finalVideoPath</find>
-      <find>pre</find>
-      <find>pagehelper</find>
-      <find>UsersLikeVideosMapper</find>
-      <find>usersLikeVideosMapper</find>
-      <find>user_video_rel</find>
-      <find>query</find>
-      <find>spring.factories</find>
-      <find>ApplicationContextInitializer</find>
-      <find>getOrDefault</find>
-      <find>coverPath</find>
       <find>like</find>
       <find>PathVariable</find>
       <find>BeanUtils</find>
@@ -180,12 +192,35 @@
       <find>show</find>
       <find>getUserToken</find>
       <find>userToken</find>
+      <find>Iterator</find>
+      <find>FFMpegTest</find>
+      <find>ConfigurableApplicationContext</find>
+      <find>this.applicationContextClass</find>
+      <find>loginDto</find>
+      <find>LoginD</find>
+      <find>sto</find>
+      <find>LoginDto</find>
+      <find>login</find>
+      <find>上传视频</find>
+      <find>查询</find>
+      <find>RestTemplate</find>
+      <find>上传</find>
+      <find>redis</find>
+      <find>zookeep</find>
+      <find>zookeeper</find>
+      <find>zk</find>
+      <find>retry</find>
+      <find>since</find>
+      <find>2021</find>
     </findStrings>
     <replaceStrings>
-      <replace />
       <replace>file</replace>
       <replace>finalCoverPath</replace>
+      <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>F:\易联众电脑内容\DFile\imoocvideosdev\src\main\resources</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -194,15 +229,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/model/WXSessionModel.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BgmController.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FFMpegTest.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MergeVideoMp3.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/BgmServiceImpl.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/BgmService.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/enums/ViddeoStatusEnum.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FetchVideoCover.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/PagedResult.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/VideosVO.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/CommentsMapper.xml" />
@@ -228,23 +257,29 @@
         <option value="$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/CommentsMapperCustom.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/VideosServiceImpl.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/TimeAgoUtils.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/UserController.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/CommentsMapperCustom.xml" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/RegisterLoginController.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/ZKCustor.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/ZookeeperConfig.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/WatcherApi.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/pom.xml" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Application.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/VideoController.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/interceptor/MiniInterceptor.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/JSONResult.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BasicController.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/WebMvcConfig.java" />
-        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/ZKApi.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-dev.yml" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Swagger2.java" />
         <option value="$PROJECT_DIR$/imooc-videos-dev-common/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/ZKApi.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/dto/LoginDto.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/RegisterLoginController.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BasicController.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FetchVideoCover.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FFMpegTest.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MergeVideoMp3.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/UserController.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersFansService.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/SearchRecordsService.java" />
+        <option value="$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Application.java" />
       </list>
     </option>
   </component>
@@ -267,19 +302,21 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="5" />
-    <option name="y" value="20" />
-    <option name="width" value="650" />
-    <option name="height" value="720" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
       <autoscrollFromSource ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,8 +328,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -303,21 +338,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/D/GitDocument/HomeCangKu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../E/jobFile/工作/学习/学习笔记/专题模块/imoocCourseJava/imooc-vide-dev/Coding/coding-217/imooc-video-admin/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1875" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\imoocvideosdev\imooc-videos-dev-common\src\main\java\com\nly\utils" />
-      <recent name="D:\imoocvideosdev\imooc-videos-dev-pojo\src\main\java\com\nly\pojo\vo" />
-      <recent name="D:\imoocvideosdev\imooc-videos-dev-mini-api\src\main\resources\mapper" />
-      <recent name="D:\imoocvideosdev\imooc-videos-dev-mini-api\src\main\resources" />
-      <recent name="D:\imoocvideosdev\imooc-videos-dev-common\src\main\java\org\n3r" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\imoocvideosdev\imooc-videos-dev-mapper\src\main\java\com\nly" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.nly.mapper" />
@@ -326,8 +357,12 @@
       <recent name="com.nly.Controller" />
       <recent name="com.nly.dto" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\imoocvideosdev\imooc-videos-dev-mapper\src\main\java\com\nly" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\imoocvideosdev\imooc-videos-dev-common\src\main\java\com\nly\utils" />
+      <recent name="D:\imoocvideosdev\imooc-videos-dev-pojo\src\main\java\com\nly\pojo\vo" />
+      <recent name="D:\imoocvideosdev\imooc-videos-dev-mini-api\src\main\resources\mapper" />
+      <recent name="D:\imoocvideosdev\imooc-videos-dev-mini-api\src\main\resources" />
+      <recent name="D:\imoocvideosdev\imooc-videos-dev-common\src\main\java\org\n3r" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -421,10 +456,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Application.FFMpegTest" />
         <item itemvalue="Application.TimeAgoUtils" />
         <item itemvalue="Application.FetchVideoCover" />
         <item itemvalue="Application.MergeVideoMp3" />
-        <item itemvalue="Application.FFMpegTest" />
       </list>
     </recent_temporary>
   </component>
@@ -554,6 +589,31 @@
       <workItem from="1648620007024" duration="1879000" />
       <workItem from="1650721813286" duration="781000" />
       <workItem from="1653106156292" duration="4754000" />
+      <workItem from="1653211429200" duration="1372000" />
+      <workItem from="1654216960255" duration="633000" />
+      <workItem from="1654682186813" duration="21888000" />
+      <workItem from="1655684041474" duration="1805000" />
+      <workItem from="1656121051024" duration="591000" />
+      <workItem from="1656320937689" duration="3271000" />
+      <workItem from="1656587316197" duration="13000" />
+      <workItem from="1657756173109" duration="1308000" />
+      <workItem from="1658060859336" duration="592000" />
+      <workItem from="1658489305499" duration="1395000" />
+      <workItem from="1658841837864" duration="612000" />
+      <workItem from="1660050271363" duration="760000" />
+      <workItem from="1661002416730" duration="1432000" />
+      <workItem from="1661312589222" duration="310000" />
+      <workItem from="1661672964161" duration="2260000" />
+      <workItem from="1661687385437" duration="2231000" />
+      <workItem from="1661749446804" duration="603000" />
+      <workItem from="1661813203115" duration="463000" />
+      <workItem from="1661814465116" duration="593000" />
+      <workItem from="1661840353866" duration="2169000" />
+      <workItem from="1661845276189" duration="1755000" />
+      <workItem from="1676676546799" duration="1348000" />
+      <workItem from="1680522943050" duration="17000" />
+      <workItem from="1701175401265" duration="3311000" />
+      <workItem from="1708949970430" duration="543000" />
     </task>
     <task id="LOCAL-00001" summary="video-dev测试提交">
       <created>1653123726681</created>
@@ -573,7 +633,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324832000" />
+    <option name="totallyTimeSpent" value="377382000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,7 +645,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="7" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.8494318" side_tool="true" weight="0.27449664" />
       <window_info id="Designer" order="1" />
@@ -594,11 +654,11 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.8374291" side_tool="true" weight="0.22684564" />
       <window_info id="Web" order="6" sideWeight="0.7698864" side_tool="true" weight="0.28993288" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.23011364" visible="true" weight="0.31233245" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.23011364" visible="true" weight="0.32908848" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731544" weight="0.5487977" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8885906" weight="0.13719943" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731544" weight="0.27903682" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8885906" weight="0.5424929" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.19318181" />
@@ -608,8 +668,8 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.111409396" side_tool="true" weight="0.50852275" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.7223796" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4852349" weight="0.2970297" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.04249292" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4852349" weight="0.24645892" />
       <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32954547" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -654,28 +714,24 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="video-dev测试提交" />
     <option name="LAST_COMMIT_MESSAGE" value="video-dev测试提交" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/RegisterLoginController.java</url>
-          <line>64</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/RegisterLoginController.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -687,80 +743,38 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/VideosService.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.5/spring-web-5.3.5.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/VideosServiceImpl.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.5/spring-webmvc-5.3.5.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4649#4650#0" expanded="true" />
-            <element signature="e#4705#4706#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="532" selection-start-line="532" selection-end-line="532" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/enums/ViddeoStatusEnum.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.5/spring-webmvc-5.3.5.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="90">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/HttpClientUtil.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.5/spring-webmvc-5.3.5.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1007">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="148">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/JsonUtils.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.5/spring-webmvc-5.3.5.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MD5Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MergeVideoMp3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/MyMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.44/tomcat-embed-core-9.0.44.jar!/javax/servlet/http/HttpServletRequest.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.44/tomcat-embed-core-9.0.44-sources.jar!/javax/servlet/http/HttpServletRequest.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.5/spring-webmvc-5.3.5.jar!/org/springframework/web/servlet/DispatcherServlet.class" />
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/ZookeeperConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
@@ -768,103 +782,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/TimeAgoUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-prod.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/VideoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2546">
-          <caret line="158" selection-start-line="158" selection-end-line="158" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/interceptor/MiniInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1178">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FFMpegTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="190">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-dev.yml">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/CommentsVO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.6/swagger-annotations-1.5.6.jar!/io/swagger/annotations/Api.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FetchVideoCover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.6/swagger-annotations-1.5.6-sources.jar!/io/swagger/annotations/Api.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="66" column="23" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.4.6/spring-data-redis-2.4.6.jar!/org/springframework/data/redis/core/StringRedisTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.5/spring-web-5.3.5.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/VideosVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1444">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="-1121">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -875,94 +812,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/CommentsVO.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/VideosVO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1511">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="228">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/Users.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/SearchRecords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-          <folding>
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1324#1325#0" expanded="true" />
-            <element signature="e#1553#1554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="44" column="31" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/D/java/jdk1.8.0/src.zip!/java/util/UUID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="69" column="21" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/JSONResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#683#684#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/RedisOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="59" column="53" selection-start-line="59" selection-start-column="45" selection-end-line="59" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mapper/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/WebMvcConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imooc-videos-dev-pojo/src/main/java/com/nly/pojo/vo/UsersVO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="e#3899#3900#0" expanded="true" />
             <element signature="e#3941#3942#0" expanded="true" />
@@ -970,24 +837,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Application.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="28" column="51" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="51" />
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/RegisterLoginController.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1691">
-          <caret line="106" column="60" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="60" />
+        <state relative-caret-position="2603">
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="8" selection-end-line="140" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/dto/LoginDto.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/UsersServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="1653">
+          <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mapper/src/main/java/com/nly/mapper/SearchRecordsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/mapper/SearchRecordsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.11/zookeeper-3.4.11.jar!/org/apache/zookeeper/Watcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2449">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/interceptor/MiniInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="64" />
+          <folding>
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.11/zookeeper-3.4.11.jar!/org/apache/zookeeper/ZooKeeper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/BgmServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/impl/VideosServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <folding>
+            <element signature="e#4649#4650#0" expanded="true" />
+            <element signature="e#4705#4706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/TimeAgoUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -998,20 +978,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/dto/LoginDto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3135">
-          <caret line="180" column="41" selection-start-line="180" selection-start-column="41" selection-end-line="180" selection-end-column="41" />
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BasicController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BgmController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/RegisterLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/WatcherApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        <state relative-caret-position="228">
+          <caret line="12" column="57" lean-forward="true" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1020,39 +1039,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/cofig/ZKApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2489">
-          <caret line="139" column="34" selection-start-line="139" selection-start-column="34" selection-end-line="139" selection-end-column="34" />
+        <state relative-caret-position="-1993">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BasicController.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/enums/ViddeoStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/FetchVideoCover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/RedisOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-common/src/main/java/com/nly/utils/ZookeeperConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersReportService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="15" column="59" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="59" />
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/HelloController.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/VideosService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="247">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Swagger2.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="634">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-mini-api/src/main/java/com/nly/Controller/BgmController.java">
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersLikeVideosService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/UsersFansService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/SearchRecordsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/CommentsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-videos-dev-service/src/main/java/com/nly/service/BgmService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -1107,7 +1192,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>imooc-videos-dev-mapper</last-edited>
+          <last-edited>imooc-videos-dev-service</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

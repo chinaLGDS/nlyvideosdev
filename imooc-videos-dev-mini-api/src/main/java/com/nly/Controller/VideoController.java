@@ -340,6 +340,14 @@ public class VideoController extends BasicController{
         return JSONResult.ok();
     }
 
+    /**
+     * 获取视频评论
+     * @param videoId
+     * @param page
+     * @param pageSize
+     * @return
+     * @throws Exception
+     */
     @PostMapping(value = "/getVideoComments")
     public JSONResult getVideoComments(String videoId,Integer page, Integer pageSize) throws Exception {
         if(StringUtils.isBlank(videoId)){

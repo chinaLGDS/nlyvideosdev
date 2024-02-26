@@ -65,9 +65,9 @@ public class FFMpegTest {
 
     public static void main(String[] args) throws IOException {
 
-        FFMpegTest ffMpegTest = new FFMpegTest("F:\\ffmpeg\\bin\\ffmpeg.exe");
+        FFMpegTest ffMpegTest = new FFMpegTest("C:\\D\\ffmpeg\\bin\\ffmpeg.exe");
         try {
-            ffMpegTest.convertor("G:\\Nly-videos-dev\\videos\\one.mp4","G:\\Nly-videos-dev\\video-ffmpeg\\test.avi");
+            ffMpegTest.convertor("C:\\G\\Nly-videos-dev\\videos\\one.mp4","C:\\G\\Nly-videos-dev\\video-ffmpeg\\test.avi");
         } catch (IOException e) {
             e.printStackTrace();
         }
